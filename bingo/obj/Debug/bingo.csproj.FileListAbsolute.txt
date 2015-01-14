@@ -1,0 +1,9 @@
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\bin\Debug\bingo.exe.config
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.csprojResolveAssemblyReference.cache
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.Form1.resources
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.Properties.Resources.resources
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.csproj.GenerateResource.Cache
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\bin\Debug\bingo.exe
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\bin\Debug\bingo.pdb
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.exe
+c:\users\mark\documents\visual studio 2012\Projects\bingo\bingo\obj\Debug\bingo.pdb
